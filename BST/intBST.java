@@ -7,7 +7,7 @@ package lab11;
 
 /**
  *
- * @author Aroub Alyami
+ *
  */
 public class intBST {
 
